@@ -25,3 +25,7 @@ password-generator/
 │── index.html # UI
 │── style.css # Styling
 │── script.js # Password generation logic
+
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](same.JPG)
